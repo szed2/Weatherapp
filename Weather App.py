@@ -27,3 +27,4 @@ def get_weather(city):
 if __name__ == "__main__":
     city = input("Enter city name: ")
     get_weather(city)
+print("Would you like to search for another place? (yes/no)")
